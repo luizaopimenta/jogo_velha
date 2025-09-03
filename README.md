@@ -54,4 +54,4 @@ O código é organizado em funções para facilitar a leitura e manutenção:
 
 -----
 
-**Autor:** [Seu Nome ou Usuário do GitHub]
+**Autor:** [Luiz Fernando Pimenta Costa]
