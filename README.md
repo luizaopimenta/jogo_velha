@@ -1,7 +1,3 @@
-Obrigado pela clareza\! O formato que você me pediu já estava em Markdown.
-
-Aqui está o `README.md` completo e bem formatado, pronto para ser usado no seu projeto do jogo da velha.
-
 -----
 
 # Jogo da Velha em Python
